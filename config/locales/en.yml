@@ -31,3 +31,10 @@ en:
       placeholder_name: "Leave blank to use product name"
       placeholder_link_url: "Leave blank to use product url"
       image_tip: "Default first product image"
+
+    slider_locations:
+      title: "Locations"
+      new_location: "New Location"
+      back_to_locations: "Back to Locations"
+      editing_location: "Editing Locations"
+  
