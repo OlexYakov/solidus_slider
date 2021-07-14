@@ -33,6 +33,10 @@ Gem::Specification.new do |s|
   s.add_dependency 'solidus_support'
   s.add_dependency 'deface', '~> 1.0'
 
+  s.add_dependency 'kaminari-i18n', '~> 0.5.0'
+  s.add_dependency 'rails-i18n', '~> 6.0.0'
+  s.add_dependency 'solidus_i18n', '~> 2.0'
+
   s.add_development_dependency 'solidus_dev_support', '~> 2.3'
   s.add_development_dependency 'rb-fsevent'
   s.add_development_dependency 'growl'
